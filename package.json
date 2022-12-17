@@ -1,0 +1,19 @@
+{
+  "name": "mono-donations-log-for-streams",
+  "version": "0.0.1",
+  "private": true,
+  "description": "monobank donations log for streams",
+  "main": "index.js",
+  "author": "Ivan Novikov <illinifellow@gmail.com> (https://illinifellow.com/)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illinifellow/mono-donations-log-for-streams.git"
+  },
+  "type": "module",
+  "dependencies": {
+    "currency-codes": "^2.1.0",
+    "currency-symbol-map": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.0"
+  }
+}
